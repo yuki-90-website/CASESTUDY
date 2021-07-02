@@ -1,0 +1,26 @@
+h3 {
+    font-variant: small-caps;
+}
+.testimg1, .testimg2, .testimg3, .testimg4, .testimg5 {
+    background-color: wheat;
+    box-shadow: 5px 5px 18px;
+    width: 80%;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.testimg1 li img {
+    height: 400px;
+}
+.testimg2 li img {
+    width: 80%;
+}
+.testimg3 li img {
+    height: 400px;
+}
+.testimg4 li img {
+    height: 400px;
+}
+.testimg5 li img {
+    height: 400px;
+}
